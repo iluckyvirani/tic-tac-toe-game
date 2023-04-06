@@ -1,0 +1,6 @@
+{
+    "files.associations": {"*html":"html"},
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
